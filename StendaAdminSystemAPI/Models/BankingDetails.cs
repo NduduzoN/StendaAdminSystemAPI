@@ -12,7 +12,9 @@ namespace StendaAdminSystemAPI.Models
         public String BranchCode { get; set; }
         [Required]
         public String AccountNumber { get; set; }
-        
-        
+        [Required]
+        public String AccountType { get; set; }
+
+
     }
 }
