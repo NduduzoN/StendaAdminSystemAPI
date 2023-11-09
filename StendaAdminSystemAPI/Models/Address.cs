@@ -5,7 +5,7 @@ namespace StendaAdminSystemAPI.Models
     public class Address
     {
         [Key]
-        public int Id { get; set; }
+        public int SapNo { get; set; }
         [Required]
         public string StreetNumber { get; set; }
         [Required]

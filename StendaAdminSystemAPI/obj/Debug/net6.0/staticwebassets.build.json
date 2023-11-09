@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nz5oHnvNMAIHfp+fdtvhW0UvPoARSgzOyOCTijavnFg=",
+  "Source": "StendaAdminSystemAPI",
+  "BasePath": "_content/StendaAdminSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

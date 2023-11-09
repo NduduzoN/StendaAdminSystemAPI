@@ -1,9 +1,21 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Views\Employee\" />
+    <Folder Include="Views\Induction\" />
+    <Folder Include="Views\Medical\" />
+    <Folder Include="Views\BankingDetails\" />
+    <Folder Include="Views\Address\" />
+    <Folder Include="Views\Licence\" />
+    <Folder Include="Views\EmergencyContact\" />
+  </ItemGroup>
 
 </Project>
