@@ -1,0 +1,8 @@
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.csproj.AssemblyReference.cache
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.AssemblyInfoInputs.cache
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.AssemblyInfo.cs
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.RazorAssemblyInfo.cache
+C:\Users\giftn\source\repos\StendaAdminSystemAPI\StendaAdminSystemUI\obj\Debug\net6.0\StendaAdminSystemUI.RazorAssemblyInfo.cs

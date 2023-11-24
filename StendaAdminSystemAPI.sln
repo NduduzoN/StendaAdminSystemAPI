@@ -5,9 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StendaAdminSystemAPI", "StendaAdminSystemAPI\StendaAdminSystemAPI.csproj", "{2A489782-4EB6-4E81-9940-65A808960DAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StendaAdminSystemUI", "StendaAdminSystemUI\StendaAdminSystemUI.csproj", "{D80D6F94-D516-48ED-B79D-A2726C5A91B4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StendaAdminSystemUnitTests", "StendaAdminSystemUnitTests\StendaAdminSystemUnitTests.csproj", "{08814884-5873-4F03-8D03-2F46798850F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StendaAdminSystemUnitTests", "StendaAdminSystemUnitTests\StendaAdminSystemUnitTests.csproj", "{08814884-5873-4F03-8D03-2F46798850F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{2A489782-4EB6-4E81-9940-65A808960DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A489782-4EB6-4E81-9940-65A808960DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A489782-4EB6-4E81-9940-65A808960DAE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D80D6F94-D516-48ED-B79D-A2726C5A91B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D80D6F94-D516-48ED-B79D-A2726C5A91B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D80D6F94-D516-48ED-B79D-A2726C5A91B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D80D6F94-D516-48ED-B79D-A2726C5A91B4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{08814884-5873-4F03-8D03-2F46798850F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08814884-5873-4F03-8D03-2F46798850F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08814884-5873-4F03-8D03-2F46798850F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
